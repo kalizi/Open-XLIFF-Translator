@@ -1,0 +1,8 @@
+# XMLToDict to read XLIFF
+xmltodict==0.13.0
+# Torch deps for HelsinkiNLP
+-f https://download.pytorch.org/whl/torch_stable.html
+torch==1.13.1+cu117 
+transformers==4.27.3
+sentencepiece==0.1.96
+sacremoses==0.0.45
